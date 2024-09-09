@@ -14,5 +14,5 @@ This is a command-line tool that analyzes the HTTP headers of a given URL and pr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/http-header-analyzer.git
-   cd http-header-analyzer
+   git clone https://github.com/rnadjqaim/header-reader-inspector.git
+   cd header-reader-inspector
