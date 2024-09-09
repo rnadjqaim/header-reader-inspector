@@ -1,0 +1,8 @@
+
+### Steps for GitHub
+1. Create a new repository on GitHub.
+2. Add the Python script as code.py`.
+3. Add the `README.md` file to the repository.
+4. Push your changes to GitHub.
+
+This structure will work well for a CLI tool hosted on GitHub. Let me know if you need any other modifications!
