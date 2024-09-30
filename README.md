@@ -1,8 +1,8 @@
-# HTTP Header Analyzer CLI
+# HTTP Header Analyzer CLI Tool : 
 
 This is a command-line tool that analyzes the HTTP headers of a given URL and provides explanations for common headers. It fetches the response headers from the URL and gives a brief explanation of their purpose.
 
-## Features
+## Features  :
 
 - Fetch and display the HTTP headers for a given URL.
 - Provide explanations for common HTTP headers, such as `Content-Type`, `Cache-Control`, and `Strict-Transport-Security`.
